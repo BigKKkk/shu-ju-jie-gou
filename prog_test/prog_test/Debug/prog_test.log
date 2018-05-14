@@ -1,0 +1,3 @@
+﻿  getWords.cpp
+f:\shu-ju-jie-gou\prog_test\prog_test\getwords.cpp(16): warning C4018: “<”: 有符号/无符号不匹配
+  prog_test.vcxproj -> F:\shu-ju-jie-gou\prog_test\Debug\prog_test.exe

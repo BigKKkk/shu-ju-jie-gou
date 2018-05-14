@@ -1,0 +1,126 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\navinfo-kkkk\Downloads\gps_spl\gps_spl\allocate.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\navinfo-kkkk\Downloads\gps_spl\gps_spl\at45.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\navinfo-kkkk\Downloads\gps_spl\gps_spl\bsio.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\navinfo-kkkk\Downloads\gps_spl\gps_spl\constants.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\navinfo-kkkk\Downloads\gps_spl\gps_spl\display.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\navinfo-kkkk\Downloads\gps_spl\gps_spl\ephemeris.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\navinfo-kkkk\Downloads\gps_spl\gps_spl\gp4020.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\navinfo-kkkk\Downloads\gps_spl\gps_spl\gp4020_io.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\navinfo-kkkk\Downloads\gps_spl\gps_spl\interrupts.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\navinfo-kkkk\Downloads\gps_spl\gps_spl\log.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\navinfo-kkkk\Downloads\gps_spl\gps_spl\measure.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\navinfo-kkkk\Downloads\gps_spl\gps_spl\message.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\navinfo-kkkk\Downloads\gps_spl\gps_spl\position.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\navinfo-kkkk\Downloads\gps_spl\gps_spl\pseudorange.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\navinfo-kkkk\Downloads\gps_spl\gps_spl\serial.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\navinfo-kkkk\Downloads\gps_spl\gps_spl\switches.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\navinfo-kkkk\Downloads\gps_spl\gps_spl\threads.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\navinfo-kkkk\Downloads\gps_spl\gps_spl\time.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\navinfo-kkkk\Downloads\gps_spl\gps_spl\tracking.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="C:\Users\navinfo-kkkk\Downloads\gps_spl\gps_spl\allocate.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\navinfo-kkkk\Downloads\gps_spl\gps_spl\at45.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\navinfo-kkkk\Downloads\gps_spl\gps_spl\bsio.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\navinfo-kkkk\Downloads\gps_spl\gps_spl\display.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\navinfo-kkkk\Downloads\gps_spl\gps_spl\ephemeris.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\navinfo-kkkk\Downloads\gps_spl\gps_spl\gp4020_io.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\navinfo-kkkk\Downloads\gps_spl\gps_spl\gpl-gps.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\navinfo-kkkk\Downloads\gps_spl\gps_spl\interrupts.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\navinfo-kkkk\Downloads\gps_spl\gps_spl\log.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\navinfo-kkkk\Downloads\gps_spl\gps_spl\measure.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\navinfo-kkkk\Downloads\gps_spl\gps_spl\message.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\navinfo-kkkk\Downloads\gps_spl\gps_spl\position.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\navinfo-kkkk\Downloads\gps_spl\gps_spl\pseudorange.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\navinfo-kkkk\Downloads\gps_spl\gps_spl\serial.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\navinfo-kkkk\Downloads\gps_spl\gps_spl\time.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\navinfo-kkkk\Downloads\gps_spl\gps_spl\tracking.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
